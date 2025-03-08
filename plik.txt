@@ -1,0 +1,1 @@
+Tu jest zawartość pliku plik.txt
